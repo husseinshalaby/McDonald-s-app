@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Big Mac",
+    "hasOffer": true,
+    "category":"beef",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Bigmac.png",
+    "id":1
+ },
+  {
+    "name": "Big Tasty",
+    "hasOffer": true,
+    "category":"beef",
+
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Big-tasty-Beef.png",
+    "id":2
+},
+  {
+    "name": "Double Big Tasty",
+    "hasOffer":false,
+    "category":"beef",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Double-Big-Tasty.png",
+    "id":3
+},
+{
+  "name": "Double McRoyale",
+  "hasOffer":false,
+  "category":"beef",
+  "price": 50,
+  "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Double-McRoyal.png",
+  "id":4
+  },
+  {
+    "name": "Cheeseburger",
+    "hasOffer":false,
+    "category":"beef",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/CheeseBurger.png",
+    "id":5
+},
+{
+  "name": "Beefburger",
+  "hasOffer":false,
+  "category":"beef",
+  "price": 50,
+  "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Beefburger.png",
+  "id":6
+  },
+  {
+    "name": "Double Cheeseburger",
+    "hasOffer":false,
+    "category":"beef",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Double-CheeseBurger.png",
+    "id":7
+  },
+  {
+    "name": "Cheeseburger Deluxe",
+    "hasOffer":false,
+    "category":"beef",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Cheese-Burger-Delux.png",
+    "id":8
+  },
+  {
+    "name": "McChicken",
+    "hasOffer":false,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/McChicken.png",
+    "id":9
+  },
+  {
+    "name": "Double McChicken",
+    "hasOffer":false,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Double-McChicken.png",
+    "id":10
+  },
+  {
+    "name": "Big Tasty® Chicken",
+    "hasOffer":false,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Big-tasty-Chicken.png",
+    "id":11
+  },
+  {
+    "name": "Chicken Mac®",
+    "hasOffer":false,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Chicken-Mac.png",
+    "id":12
+  },
+  {
+    "name": "Grand Chicken Premier",
+    "hasOffer":false,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Grand-Chicken-Regular.png",
+    "id":13
+  },
+  {
+    "name": "Grand Chicken Spicy",
+    "hasOffer":false,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Grand-Chicken-Spicy.png",
+    "id":14
+  },
+  {
+    "name": "Chicken Fillet",
+    "hasOffer":false,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Chicken-Fillet.png",
+    "id":15
+  },
+  {
+    "name": "McNuggets® 4 Pieces",
+    "hasOffer":true,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/McNuggets-4psc.png",
+    "id":16
+  },
+  {
+    "name": "McNuggets® 6 Pieces",
+    "hasOffer":true,
+    "category":"chicken",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/McNuggets-6psc.png",
+    "id":17
+  },
+  {
+    "name": "Cheddar Cheese Fries",
+    "hasOffer": true,
+    "category":"side-item",
+
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Cheddar-Cheese-Fries-700x474.png",
+    "id":18
+},
+  {
+    "name": "Chicken Caesar Salad",
+    "hasOffer":false,
+    "category":"side-item",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Chicken-Salad.png",
+    "id":19
+},
+{
+  "name": "Garden Salad",
+  "hasOffer":false,
+  "category":"side-item",
+  "price": 50,
+  "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Gaden-Salad.png",
+  "id":20
+  },
+  {
+    "name": "McFries®",
+    "hasOffer":false,
+    "category":"side-item",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Large-Frise.png",
+    "id":21
+},
+{
+  "name": "Carrot Sticks",
+  "hasOffer":false,
+  "category":"side-item",
+  "price": 50,
+  "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Carrot-Sticks-700x474.png",
+  "id":22
+  },
+  {
+    "name": "Filet-O-Fish®",
+    "hasOffer":false,
+    "category":"fish",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Filet-O-Fish.png",
+    "id":23
+  },
+  {
+    "name": "Double Filet-O-Fish®",
+    "hasOffer":false,
+    "category":"fish",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Double-FOF.png",
+    "id":24
+  },
+  {
+    "name": "Chocolate Milkshake",
+    "hasOffer":false,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Milkshake-Choco.png",
+    "id":25
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "hasOffer":false,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Milkshake-Straw.png",
+    "id":26
+  },
+  {
+    "name": "Vanilla Milkshake",
+    "hasOffer":false,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Milkshake-Vanilla.png",
+    "id":27
+  },
+  {
+    "name": "McFizz Blue Passion",
+    "hasOffer":false,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Mc-Fizz-Blue.png",
+    "id":28
+  },
+  {
+    "name": "McFizz Strawberry",
+    "hasOffer":false,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Mcfizz-Straw.png",
+    "id":29
+  },
+  {
+    "name": "Apple Juice",
+    "hasOffer":false,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/AJ-700x474.png",
+    "id":30
+  },
+  {
+    "name": "Orange Juice",
+    "hasOffer":false,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Orange-Juice.png",
+    "id":31
+  },
+  {
+    "name": "Coca-Cola",
+    "hasOffer":true,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Coke.png",
+    "id":32
+  },
+  {
+    "name": "Fanta",
+    "hasOffer":true,
+    "category":"beverages",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Fanta.png",
+    "id":33
+  },
+  {
+    "name": "Water",
+    "hasOffer": true,
+    "category":"beverages",
+
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Water.png",
+    "id":34
+},
+  {
+    "name": "Happy Meal® Chicken MACDO®",
+    "hasOffer":false,
+    "category":"happy-meal",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/HM-Chicken-Macdo.png",
+    "id":35
+},
+{
+  "name": "Happy Meal® Cheeseburger",
+  "hasOffer":false,
+  "category":"happy-meal",
+  "price": 50,
+  "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/HM-D-Chesseburger.png",
+  "id":36
+  },
+  {
+    "name": "Happy Meal® McNuggets® 4 Pieces",
+    "hasOffer":false,
+    "category":"happy-meal",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/HM-4Nuggets.png",
+    "id":37
+},
+{
+  "name": "Strawberry Custard Pie",
+  "hasOffer":false,
+  "category":"desserts",
+  "price": 50,
+  "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/StrawberryPie/Pie-700x474.png",
+  "id":38
+  },
+  {
+    "name": "Oreo McFlurry®",
+    "hasOffer":false,
+    "category":"desserts",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Oreo.png",
+    "id":39
+  },
+  {
+    "name": "Chocolate Fudge Sundae",
+    "hasOffer":false,
+    "category":"desserts",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Chocolate.png",
+    "id":40
+  },
+  {
+    "name": "Caramel Sundae",
+    "hasOffer":false,
+    "category":"desserts",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Caramel.png",
+    "id":41
+  },
+  {
+    "name": "Ice Cream Cone",
+    "hasOffer":false,
+    "category":"desserts",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/Cone.png",
+    "id":42
+  },
+  {
+    "name": "Strawberry Sundae",
+    "hasOffer":false,
+    "category":"desserts",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Straw.png",
+    "id":43
+  },
+  {
+    "name": "Apple Pie",
+    "hasOffer":false,
+    "category":"desserts",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Apple-Pie.png",
+    "id":44
+  },
+  {
+    "name": "Egg McMuffin®",
+    "hasOffer":false,
+    "category":"breakfast",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Egg-McMuffin.png",
+    "id":45
+  },
+  {
+    "name": "McFalafel",
+    "hasOffer":false,
+    "category":"breakfast",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/McFalafel.png",
+    "id":46
+  },
+  {
+    "name": "Big Breakfast",
+    "hasOffer":false,
+    "category":"breakfast",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Big-Breakfast-W-Coffe.png",
+    "id":47
+  },
+  {
+    "name": "Egg & Cheese Wrap",
+    "hasOffer":true,
+    "category":"breakfast",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Egg-Cheese-Wrap.png",
+    "id":48
+  },
+  {
+    "name": "Hash Browns",
+    "hasOffer":true,
+    "category":"breakfast",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/hash-brown.png",
+    "id":49
+  },
+  {
+    "name": "Hotcakes 2 Pieces",
+    "hasOffer": true,
+    "category":"breakfast",
+
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Hotcakes-2-Pieces.png",
+    "id":50
+},
+  {
+    "name": "Blueberry Cheese Cake",
+    "hasOffer":false,
+    "category":"mcCafe",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/McCafe/BC-700x474.png",
+    "id":51
+},
+{
+  "name": "Red Velvet Cake",
+  "hasOffer":false,
+  "category":"mcCafe",
+  "price": 50,
+  "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/700x474-RV.png",
+  "id":52
+  },
+  {
+    "name": "Chocolate Walnut",
+    "hasOffer":false,
+    "category":"mcCafe",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/700x474-CW.png",
+    "id":53
+},
+{
+  "name": "Skinny Blueberry Muffin",
+  "hasOffer":false,
+  "category":"mcCafe",
+  "price": 50,
+  "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/700x474-SBM.png",
+  "id":54
+  },
+  {
+    "name": "Americano",
+    "hasOffer":false,
+    "category":"mcCafe",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/700x474-Americano.png",
+    "id":55
+  },
+  {
+    "name": "Chocolate Frappe",
+    "hasOffer":false,
+    "category":"mcCafe",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/700x474-CF2.png",
+    "id":56
+  },
+  {
+    "name": "Blueberry Smoothie",
+    "hasOffer":false,
+    "category":"mcCafe",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/700x474-BL.png",
+    "id":57
+  },
+  {
+    "name": "Green Mint Tea",
+    "hasOffer":false,
+    "category":"mcCafe",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/Hazem/McCafeYellow/Green-mint.png",
+    "id":58
+  },
+  {
+    "name": "Cappuccino",
+    "hasOffer":false,
+    "category":"mcCafe",
+    "price": 50,
+    "image": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/Hazem/McCafeYellow/Cap.png",
+    "id":59
+  }
+]
